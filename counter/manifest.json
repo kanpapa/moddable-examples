@@ -10,5 +10,12 @@
 		"*-alpha": [
 			"$(MODDABLE)/examples/assets/fonts//OpenSans-Regular-52"
 		]
-  }
+  },
+  "platforms": {
+		"esp32": {
+			"config": {
+				"rotation": 90
+			}
+		}
+	}
 }

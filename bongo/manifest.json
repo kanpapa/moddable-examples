@@ -15,5 +15,12 @@
       "./assets/images/*",
       "./assets/sounds/*"
     ]
-  }
+  },
+  "platforms": {
+		"esp32": {
+			"config": {
+				"rotation": 90
+			}
+		}
+	}
 }
